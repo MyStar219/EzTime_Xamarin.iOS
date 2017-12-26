@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{5FD9215D-5F41-4D48-8EF9-CD39597BF2F7}|Default">
+  <MonoDevelop.Ide.ItemProperties.EzTimeiOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3696AD1E-3605-414B-8DB4-DDAB01DC639B" automaticSigning="False" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HomeViewController.cs">
+    <Files>
+      <File FileName="Info.plist" />
+      <File FileName="HomeViewController.cs" Line="75" Column="1" />
+      <File FileName="HoursListViewController.cs" Line="1" Column="1" />
+      <File FileName="Global.cs" Line="30" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mobiledeveloper/Documents/Xamarin/EzTimeiOS/EzTimeiOS/HomeViewController.cs" relfile="HomeViewController.cs" line="75" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

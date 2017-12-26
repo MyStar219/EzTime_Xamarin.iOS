@@ -1,0 +1,23 @@
+Function=xamarin_timezone_get_data
+	/Users/mobiledeveloper/Documents/Xamarin/EzTimeiOS/EzTimeiOS/obj/iPhone/Debug/device-builds/iphone5.1-10.3.3/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/mobiledeveloper/Documents/Xamarin/EzTimeiOS/EzTimeiOS/obj/iPhone/Debug/device-builds/iphone5.1-10.3.3/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/mobiledeveloper/Documents/Xamarin/EzTimeiOS/EzTimeiOS/obj/iPhone/Debug/device-builds/iphone5.1-10.3.3/mtouch-cache/Link/mscorlib.dll
+Function=UIApplicationMain
+	/Users/mobiledeveloper/Documents/Xamarin/EzTimeiOS/EzTimeiOS/obj/iPhone/Debug/device-builds/iphone5.1-10.3.3/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/mobiledeveloper/Documents/Xamarin/EzTimeiOS/EzTimeiOS/obj/iPhone/Debug/device-builds/iphone5.1-10.3.3/mtouch-cache/Link/Xamarin.iOS.dll
+Function=CreateZStream
+	/Users/mobiledeveloper/Documents/Xamarin/EzTimeiOS/EzTimeiOS/obj/iPhone/Debug/device-builds/iphone5.1-10.3.3/mtouch-cache/Link/System.dll
+Function=CloseZStream
+	/Users/mobiledeveloper/Documents/Xamarin/EzTimeiOS/EzTimeiOS/obj/iPhone/Debug/device-builds/iphone5.1-10.3.3/mtouch-cache/Link/System.dll
+Function=Flush
+	/Users/mobiledeveloper/Documents/Xamarin/EzTimeiOS/EzTimeiOS/obj/iPhone/Debug/device-builds/iphone5.1-10.3.3/mtouch-cache/Link/System.dll
+Function=ReadZStream
+	/Users/mobiledeveloper/Documents/Xamarin/EzTimeiOS/EzTimeiOS/obj/iPhone/Debug/device-builds/iphone5.1-10.3.3/mtouch-cache/Link/System.dll
+Function=WriteZStream
+	/Users/mobiledeveloper/Documents/Xamarin/EzTimeiOS/EzTimeiOS/obj/iPhone/Debug/device-builds/iphone5.1-10.3.3/mtouch-cache/Link/System.dll
+Function=xamarin_start_wwan
+	/Users/mobiledeveloper/Documents/Xamarin/EzTimeiOS/EzTimeiOS/obj/iPhone/Debug/device-builds/iphone5.1-10.3.3/mtouch-cache/Link/System.dll
+Function=mono_pmip
